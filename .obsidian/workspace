@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3df344d667a63be0",
+        "id": "22d14a243303e561",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "BUNGALOW/MELATI.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Active",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,11 +66,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 288.5
   },
   "right": {
     "id": "70b8d15e264b1a5b",
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BUNGALOW/MELATI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +114,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3df344d667a63be0",
+  "active": "75744561fda87aef",
   "lastOpenFiles": [
-    "Jadwal Kerja.md",
-    "GIT.md",
-    "Untitled 1.md",
-    "! Index/050 Religion.md",
-    "PROGRAMMER ZAMAN NOW.md",
-    "! Index/030 Property.md",
-    "! Index/020 Clothing.md",
-    "! Index/010 Food.md",
-    "! Index/000 Index.md",
-    "Yogaa.md"
+    "ASSET/TV/AST0001.md",
+    "BUNGALOW/MELATI.md",
+    "BUNGALOW/MAWAR  01.md",
+    "! GROUP/BUNGALOW.md",
+    "! GROUP/KONDISI RUSAK.md",
+    "! GROUP/POMPA.md",
+    "ASSET/POMPA/AST0002.md",
+    "Templates/Tmp Asset.md",
+    "KONDISI RUSAK_image_1.png.md",
+    "Untitled.md"
   ]
 }

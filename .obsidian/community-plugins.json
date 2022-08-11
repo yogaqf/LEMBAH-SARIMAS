@@ -10,5 +10,12 @@
   "quickadd",
   "buttons",
   "templater-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-emoji-toolbar",
+  "file-explorer-note-count",
+  "obsidian-icon-folder",
+  "obsidian-activity-history",
+  "obsidian-attachment-name-formatting",
+  "find-unlinked-files",
+  "highlightr-plugin"
 ]
