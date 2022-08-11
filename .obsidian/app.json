@@ -1,0 +1,15 @@
+{
+  "attachmentFolderPath": "Attachment",
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "legacyEditor": false,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "livePreview": true,
+  "promptDelete": false
+}

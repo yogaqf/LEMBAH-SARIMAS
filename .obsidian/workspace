@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "ca05a063b334fcbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "3df344d667a63be0",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed055450171e1c7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f38941d2b4b7d2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "150591bfc715eefd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "170079b592424b8d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "98f4b9cad588be91",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "75744561fda87aef",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 316.5
+  },
+  "right": {
+    "id": "70b8d15e264b1a5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "112af253755e771d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d455733ed55d53b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "de3fe5b985a9f031",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3df344d667a63be0",
+  "lastOpenFiles": [
+    "Jadwal Kerja.md",
+    "GIT.md",
+    "Untitled 1.md",
+    "! Index/050 Religion.md",
+    "PROGRAMMER ZAMAN NOW.md",
+    "! Index/030 Property.md",
+    "! Index/020 Clothing.md",
+    "! Index/010 Food.md",
+    "! Index/000 Index.md",
+    "Yogaa.md"
+  ]
+}
