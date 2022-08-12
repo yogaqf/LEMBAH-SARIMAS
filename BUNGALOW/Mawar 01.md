@@ -1,5 +1,5 @@
 ---
-ID : Melati
+ID : Mawar 01
 LB : 
 Terakhir_Perbaikan : 
 ---
@@ -21,7 +21,7 @@ Terakhir_Perbaikan :
 ```dataview 
 TABLE length(rows) as Qty 
 FROM "ASSET" 
-WHERE contains(Location, "Melati")
+WHERE contains(Location, "Mawar 01")
 group by Type
 ```
 
@@ -29,7 +29,7 @@ group by Type
 ```dataview 
 TABLE length(rows) as Qty 
 FROM "ASSET" 
-WHERE contains(Location, "Melati")
+WHERE contains(Location, "Mawar 01")
 group by Sub_Location
 ```
 ---
@@ -37,7 +37,7 @@ group by Sub_Location
 
 
 
-# **Sub Location**
+# Sub Location
 
 ## <mark style="background: #CACFD9A6;">Balcony</mark> 
 
@@ -45,7 +45,7 @@ group by Sub_Location
 ```dataview  
 table Name, Type,Status, Tag as Condition, Last_Upd
 from "ASSET"
-WHERE contains(Location, "Melati")
+WHERE contains(Location, "Mawar 01")
 WHERE contains(Sub_Location, "Living Room")
 ```
 ## <mark style="background: #FFB86CA6;">Bed Room 1</mark> 

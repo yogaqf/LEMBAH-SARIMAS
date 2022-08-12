@@ -1,5 +1,5 @@
 ---
-ID : Melati
+ID : 
 LB : 
 Terakhir_Perbaikan : 
 ---
@@ -37,7 +37,7 @@ group by Sub_Location
 
 
 
-# **Sub Location**
+# Sub Location
 
 ## <mark style="background: #CACFD9A6;">Balcony</mark> 
 

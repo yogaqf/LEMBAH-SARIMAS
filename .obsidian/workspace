@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "22d14a243303e561",
+        "id": "59aed7fecebb6c7e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BUNGALOW/MELATI.md",
+            "file": "BUNGALOW/Mawar 01.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -28,7 +28,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "150591bfc715eefd",
+            "id": "eb9f9fd328390ed5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -66,12 +66,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 303.5
   },
   "right": {
     "id": "70b8d15e264b1a5b",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BUNGALOW/MELATI.md",
+                "file": "BUNGALOW/Mawar 01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,26 +104,37 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "c32ba60f4224191c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "75744561fda87aef",
+  "active": "59aed7fecebb6c7e",
   "lastOpenFiles": [
-    "ASSET/TV/AST0001.md",
-    "BUNGALOW/MELATI.md",
-    "BUNGALOW/MAWAR  01.md",
-    "! GROUP/BUNGALOW.md",
-    "! GROUP/KONDISI RUSAK.md",
-    "! GROUP/POMPA.md",
-    "ASSET/POMPA/AST0002.md",
+    "BUNGALOW/Melati.md",
+    "ASSET/TV/R 00001.md",
+    "! GROUP/All Asset.md",
+    "BUNGALOW/Mawar 01.md",
+    "Templates/Tmp Bungalow.md",
     "Templates/Tmp Asset.md",
-    "KONDISI RUSAK_image_1.png.md",
-    "Untitled.md"
+    "ASSET/Wifi Router/R 00206.md",
+    "ASSET/Dispenser/R 00170.md",
+    "ASSET/TV/R 00007.md",
+    "! GROUP/Bungalow.md"
   ]
 }

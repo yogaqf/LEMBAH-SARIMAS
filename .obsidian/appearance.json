@@ -1,4 +1,8 @@
 {
-  "baseFontSize": 13,
-  "cssTheme": ""
+  "baseFontSize": 11,
+  "cssTheme": "",
+  "textFontFamily": "Helvetica",
+  "theme": "obsidian",
+  "interfaceFontFamily": "SansSerif",
+  "translucency": false
 }

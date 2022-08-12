@@ -11,5 +11,6 @@
   "showFrontmatter": true,
   "showLineNumber": true,
   "livePreview": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "tabSize": 4
 }

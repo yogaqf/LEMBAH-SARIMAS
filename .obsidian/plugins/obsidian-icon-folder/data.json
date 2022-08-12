@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasLocationDot",
-      "FarImage",
-      "FarFile",
-      "FasHotel",
-      "FabAmazon"
+      "FasMartiniGlass",
+      "FarSnowflake",
+      "IbPhoneSignal",
+      "FarKeyboard",
+      "IbPhoneCall"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -27,5 +27,11 @@
   "Templates": "FarFile",
   "IMG": "FarImage",
   "LOCATION": "FasLocationDot",
-  "ASSET/POMPA": "FabBandcamp"
+  "ASSET/Pompa": "FabBandcamp",
+  "ASSET/Receiver": "IbReceipt",
+  "ASSET/Telepon": "IbPhoneCall",
+  "ASSET/Remote Receiver": "FarKeyboard",
+  "ASSET/Wifi Router": "IbPhoneSignal",
+  "ASSET/Kulkas": "FarSnowflake",
+  "ASSET/Dispenser": "FasMartiniGlass"
 }
