@@ -1,8 +1,20 @@
+
 ---
-ID : Melati
-LB : 
+ID                 : Melati
+LB                 : 
 Terakhir_Perbaikan : 
 ---
+# [[All Asset]] / [[Total Asset by Location]] / Melati
+
+
+
+
+
+
+
+
+
+
 
 
 ## History Perbaikan
@@ -37,7 +49,7 @@ group by Sub_Location
 
 
 
-# **Sub Location**
+# Sub Location
 
 ## <mark style="background: #CACFD9A6;">Balcony</mark> 
 

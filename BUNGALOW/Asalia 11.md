@@ -1,5 +1,5 @@
 ---
-ID                 : Mawar 01
+ID                 : Asalia 11
 LB                 : 
 Living Room        : 
 Bed Room           :
@@ -7,7 +7,7 @@ Bath Room          :
 Kitchen            :
 Terakhir_Perbaikan : 
 ---
-# [[All Asset]] / [[Total Asset by Location]] / Melati
+# [[All Asset]] / [[Total Asset by Location]] / Asalia 11
 
 ## History Perbaikan
 - None
@@ -25,7 +25,7 @@ Terakhir_Perbaikan :
 ```dataview 
 TABLE length(rows) as Qty 
 FROM "ASSET" 
-WHERE contains(Location, "X")
+WHERE contains(Location, "Asalia 11")
 group by Type
 ```
 
@@ -33,7 +33,7 @@ group by Type
 ```dataview 
 TABLE length(rows) as Qty 
 FROM "ASSET" 
-WHERE contains(Location, "X")
+WHERE contains(Location, "Asalia 11")
 group by Sub_Location
 ```
 ---
@@ -49,7 +49,7 @@ group by Sub_Location
 ```dataview  
 table Name, Type,Status, Tag as Condition, Last_Upd
 from "ASSET"
-WHERE contains(Location, "X")
+WHERE contains(Location, "Asalia 11")
 WHERE contains(Sub_Location, "Living Room")
 ```
 ## <mark style="background: #FFB86CA6;">Bed Room 1</mark> 

@@ -1,0 +1,30 @@
+{
+  "colors": [
+    "#3aff32ff",
+    "rgba(54, 162, 235, 1)",
+    "rgba(255, 206, 86, 1)",
+    "rgba(75, 192, 192, 1)",
+    "rgba(153, 102, 255, 1)",
+    "rgba(255, 159, 64, 1)",
+    "#e01717ff",
+    "#ae5fd8ff",
+    "#4ebf17ff",
+    "#f06565ff",
+    "#e7e60cff",
+    "#b9075fff",
+    "#761111ff",
+    "#53eae6ff",
+    "#f31414ff",
+    "#ea690cff",
+    "#9e08d0ff",
+    "#0bb7f5ff",
+    "#f35555ff",
+    "#b51f1fff"
+  ],
+  "contextMenu": true,
+  "imageSettings": {
+    "format": "image/png",
+    "quality": 0.92
+  },
+  "themeable": false
+}

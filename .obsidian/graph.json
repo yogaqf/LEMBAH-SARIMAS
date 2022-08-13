@@ -22,10 +22,17 @@
       }
     },
     {
-      "query": "path:Index",
+      "query": "path:SORT",
       "color": {
         "a": 1,
         "rgb": 3174888
+      }
+    },
+    {
+      "query": "file:All Asset",
+      "color": {
+        "a": 1,
+        "rgb": 54798
       }
     }
   ],
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 0.550595238095238,
   "linkDistance": 250,
-  "scale": 0.5087618855793066,
-  "close": false
+  "scale": 0.36288736930124726,
+  "close": true
 }

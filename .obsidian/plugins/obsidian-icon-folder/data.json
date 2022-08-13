@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasFilter",
+      "FasChair",
       "FasMartiniGlass",
       "FarSnowflake",
-      "IbPhoneSignal",
-      "FarKeyboard",
-      "IbPhoneCall"
+      "IbPhoneSignal"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -22,16 +22,18 @@
   },
   "! GROUP": "FabBattleNet",
   "ASSET": "FabBuffer",
-  "ASSET/TV": "FabAmazon",
   "BUNGALOW": "FasHotel",
   "Templates": "FarFile",
   "IMG": "FarImage",
   "LOCATION": "FasLocationDot",
-  "ASSET/Pompa": "FabBandcamp",
-  "ASSET/Receiver": "IbReceipt",
-  "ASSET/Telepon": "IbPhoneCall",
-  "ASSET/Remote Receiver": "FarKeyboard",
-  "ASSET/Wifi Router": "IbPhoneSignal",
-  "ASSET/Kulkas": "FarSnowflake",
-  "ASSET/Dispenser": "FasMartiniGlass"
+  "ASSET/Electronic/Dispenser": "FasMartiniGlass",
+  "ASSET/Electronic/Kulkas": "FarSnowflake",
+  "ASSET/Electronic/Pompa": "FabBandcamp",
+  "ASSET/Electronic/Receiver": "IbReceipt",
+  "ASSET/Electronic/Remote Receiver": "FarKeyboard",
+  "ASSET/Electronic/Telepon": "IbPhoneCall",
+  "ASSET/Electronic/TV": "FabAmazon",
+  "ASSET/Electronic/Wifi Router": "IbPhoneSignal",
+  "ASSET/Furniture": "FasChair",
+  "SORT": "FasFilter"
 }

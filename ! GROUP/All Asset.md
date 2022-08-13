@@ -1,32 +1,19 @@
 # All Asset
 ---
-## ==Total Asset by Location==
-```dataview 
-TABLE length(rows) as Total_Asset
-FROM "ASSET" 
-group by Location
+```ad-Sort
+collapse: open
+
+[[Total Asset by Status]]
+[[Total Asset by Condition]]
+[[Total Asset by Location]]
+[[Total Asset by Category]]
+[[Total Asset by Type]]
+
 ```
-
-## ==Total Asset by Group==
-```dataview 
-TABLE length(rows) as Total_Asset
-FROM "ASSET" 
-group by Group
-```
-
-## ==Total Asset by Type==
-```dataview 
-TABLE length(rows) as Total_Asset
-FROM "ASSET" 
-group by Type
-```
-
-
----
 
 ## <mark style="background: #FF5582A6;">Asset List</mark> 
 ```dataview  
-table ID as No, Name, Type, Group , Location
+table ID as No, Name, Type, Category , Location
 from "ASSET"
 sort ID asc
 ```

@@ -1,0 +1,77 @@
+{
+  "userAdmonitions": {
+    "Sort": {
+      "type": "Sort",
+      "color": "58, 38, 207",
+      "icon": {
+        "name": "filter",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Sort",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "Dataview": {
+      "type": "Dataview",
+      "color": "182, 67, 67",
+      "icon": {
+        "name": "database",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Dataview",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "History": {
+      "type": "History",
+      "color": "245, 229, 56",
+      "icon": {
+        "name": "history",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "History",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "Photo": {
+      "type": "Photo",
+      "color": "255, 10, 210",
+      "icon": {
+        "name": "image",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Photo",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": false,
+  "version": "9.0.3",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": false,
+    "icons": true,
+    "other": true,
+    "advanced": false
+  },
+  "icons": [],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.5ebdc9"
+}

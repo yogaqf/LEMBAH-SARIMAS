@@ -1,8 +1,26 @@
 ---
-ID : Mawar 01
-LB : 
+ID           : Mawar 01
+LB           : 
+Living Room  
+Bed Room
+Bath Room
+Kitchen
 Terakhir_Perbaikan : 
 ---
+# [[All Asset]] / [[Total Asset by Location]] / Mawar 01
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## History Perbaikan
