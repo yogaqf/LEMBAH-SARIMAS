@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f5c2a7559321160f",
+        "id": "b6874e254850ca98",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/Tmp Asset.md",
+            "file": "! GROUP/All Asset.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Tmp Asset.md",
+                "file": "! GROUP/All Asset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,17 +124,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f5c2a7559321160f",
+  "active": "75744561fda87aef",
   "lastOpenFiles": [
-    "SORT/Asset by Condition/Total Asset by Condition.md",
+    "ASSET/Sanitaryware/Wastafel/R 00943.md",
     "! GROUP/All Asset.md",
-    "BUNGALOW/Asalia 11.md",
-    "ASSET/Chinaware/Dispenser Keramik/R 00169.md",
-    "SORT/Asset by Status/Total Asset by Status.md",
+    "ASSET/Electronic/TV/R 00001.md",
     "Templates/Tmp Asset.md",
-    "ASSET/Electronic/Dispenser/R 00183.md",
-    "ASSET/Electronic/Dispenser/R 00170.md",
-    "ASSET/Decoration/R 00942.md",
-    "ASSET/Decoration/R 00940.md"
+    "BUNGALOW/Asalia 11.md",
+    "ASSET/Decoration/R 00940.md",
+    "SORT/Asset by Status/Total Asset by Status.md",
+    "SORT/Asset by Condition/Total Asset by Condition.md",
+    "SORT/Asset by Category/Total Asset by Category.md",
+    "SORT/Asset by Type/Total Asset by Type.md"
   ]
 }

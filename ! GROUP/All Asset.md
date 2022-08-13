@@ -13,7 +13,7 @@ collapse: open
 
 ## <mark style="background: #FF5582A6;">Asset List</mark> 
 ```dataview  
-table ID as No, Name, Type, Category , Location
+table ID as No, Name, Category , Location, file.mtime as Last_Upd
 from "ASSET"
-sort ID asc
+sort file.mtime desc
 ```

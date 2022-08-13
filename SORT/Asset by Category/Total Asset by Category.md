@@ -1,6 +1,6 @@
 # [[All Asset]] / Total Asset by Category
 ```ad-Dataview
-
+collapse: open
 ```dataview 
 TABLE length(rows) as Total_Asset
 FROM "ASSET" 
