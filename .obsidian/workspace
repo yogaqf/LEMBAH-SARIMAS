@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ASSET/Electronic/TV/R 00133.md",
+            "file": "Templates/Tmp Asset.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -86,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Tmp Asset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,19 +130,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "37e4cf606320e265",
+  "active": "75744561fda87aef",
   "lastOpenFiles": [
-    "ASSET/Electronic/TV/R 00133.md",
+    "! GROUP/All Asset.md",
     "BUNGALOW/Mawar 02.md",
-    "BUNGALOW/Mawar 01.md",
+    "ASSET/Electronic/TV/R 00133.md",
     "BUNGALOW/Asalia 11.md",
+    "ASSET/Other Equipment/R 00937.md",
+    "BUNGALOW/Mawar 01.md",
     "Templates/Tmp Asset.md",
     "ASSET/Electronic/Wifi Router/R 00207.md",
     "ASSET/Furniture/R 00938.md",
-    "BUNGALOW/Mawar 03.md",
-    "BUNGALOW/Melati.md",
-    "ASSET/Electronic/TV/R 00001.md"
+    "BUNGALOW/Mawar 03.md"
   ]
 }
