@@ -43,6 +43,7 @@ table Name, Type,Status, Condition, Last_Upd
 from "ASSET"
 WHERE contains(Location, "Asalia 11")
 WHERE contains(Sub_Location, "Living Room")
+sort Name asc
 ```
 ```ad-Sub_Location
 title: Bath Room
@@ -52,5 +53,5 @@ table Name, Type,Status, Condition, Last_Upd
 from "ASSET"
 WHERE contains(Location, "Asalia 11")
 WHERE contains(Sub_Location, "Bath Room")
-
+sort Name asc
 ```

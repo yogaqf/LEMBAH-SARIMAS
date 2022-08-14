@@ -1,4 +1,3 @@
-
 ---
 ID                 : Melati
 LB                 : 
@@ -14,57 +13,45 @@ Total_Asset:: `$= dv.pages('"ASSET"').where(p => p.Location == "Melati").length`
 
 
 
-
-
-
-
-## History Perbaikan
-- None
-
-
-
-
-
-
-
-
-
----
-## <mark style="background: #FF5582A6;">Asset Type</mark> 
+```ad-Asset
+title: Asset Type
+collapse: open
 ```dataview 
 TABLE length(rows) as Qty 
 FROM "ASSET" 
 WHERE contains(Location, "Melati")
 group by Type
 ```
-
-## <mark style="background: #FF5582A6;">Sub Location</mark> 
+```ad-Asset
+title: Sub Location
+collapse: open
 ```dataview 
 TABLE length(rows) as Qty 
 FROM "ASSET" 
 WHERE contains(Location, "Melati")
 group by Sub_Location
 ```
----
-
 
 
 
 # Sub Location
-
-## <mark style="background: #CACFD9A6;">Balcony</mark> 
-
-## <mark style="background: #ADCCFFA6;">Living Room</mark> 
+```ad-Sub_Location
+title: Living Room
+collapse: open
 ```dataview  
-table Name, Type,Status, Tag as Condition, Last_Upd
+table Name, Type,Status, Condition, Last_Upd
 from "ASSET"
 WHERE contains(Location, "Melati")
 WHERE contains(Sub_Location, "Living Room")
+sort Name asc
 ```
-## <mark style="background: #FFB86CA6;">Bed Room 1</mark> 
-
-## <mark style="background: #FFB86CA6;">Bed Room 2</mark> 
-
-## <mark style="background: #D2B3FFA6;">Bath Room 1</mark> 
-
-## <mark style="background: #D2B3FFA6;">Bath Room 2</mark> 
+```ad-Sub_Location
+title: Bath Room
+collapse: open
+```dataview  
+table Name, Type,Status, Condition, Last_Upd
+from "ASSET"
+WHERE contains(Location, "Melati")
+WHERE contains(Sub_Location, "Bath Room")
+sort Name asc
+```

@@ -4,7 +4,7 @@ collapse: open
 ```dataview 
 Table Total_Asset
 from "BUNGALOW"
-sort file desc
+sort file asc
 
 ```
 
@@ -16,14 +16,15 @@ const data = dv.pages('"ASSET"');
 const TotalAsalia11 = data.where(p => p.Location == "Asalia 11").length;
 const TotalMelati = data.where(p => p.Location == "Melati").length;
 const TotalMawar01 = data.where(p => p.Location == "Mawar 01").length;
+const TotalMawar02 = data.where(p => p.Location == "Mawar 02").length;
+const TotalMawar03 = data.where(p => p.Location == "Mawar 03").length;
 
-
-const DataArray = [TotalAsalia11, TotalMelati, TotalMawar01];
+const DataArray = [TotalAsalia11, TotalMelati, TotalMawar01, TotalMawar02, TotalMawar03];
 
 const chartData = {
     type: 'bar',
     data: {
-        labels: ['Asalia 11', 'Melati', 'Mawar 01'],
+        labels: ['Asalia 11', 'Melati', 'Mawar 01', 'Mawar 02', 'Mawar 03'],
         datasets: [{
             label: 'Total',
             data: DataArray,

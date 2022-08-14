@@ -12,8 +12,8 @@ Last_Upd      : 14/08/2022
 ---
 
 
->NOW LOCATION : [[Mawar 03]]
->
+NOW LOCATION : [[Mawar 03]]
+
 ```ad-History
 collapse: open
 

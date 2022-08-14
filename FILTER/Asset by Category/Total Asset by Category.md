@@ -13,17 +13,20 @@ collapse: open
 ```dataviewjs
 const data = dv.pages('"ASSET"');
 
-const TotalAsalia11 = data.where(p => p.Location == "Asalia 11").length;
-const TotalMelati = data.where(p => p.Location == "Melati").length;
-const TotalMawar01 = data.where(p => p.Location == "Mawar 01").length;
+const TotalChinaware = data.where(p => p.Category == "Chinaware").length;
+const TotalDecoration = data.where(p => p.Category == "Decoration").length;
+const TotalElectronic = data.where(p => p.Category == "Electronic").length;
+const TotalFurniture = data.where(p => p.Category == "Furniture").length;
+const TotalGlassware = data.where(p => p.Category == "Glassware").length;
+const TotalOtherEquipment = data.where(p => p.Category == "Other Equipment").length;
+const TotalSanitaryware = data.where(p => p.Category == "Sanitaryware").length;
 
-
-const DataArray = [TotalAsalia11, TotalMelati, TotalMawar01];
+const DataArray = [TotalChinaware, TotalDecoration, TotalElectronic, TotalFurniture, TotalGlassware, TotalOtherEquipment, TotalSanitaryware];
 
 const chartData = {
     type: 'bar',
     data: {
-        labels: ['Asalia 11', 'Melati', 'Mawar 01'],
+        labels: ['Chinaware', 'Decoration', 'Electronic','Furniture', 'Glassware', 'Other Equipment', 'Sanitaryware'],
         datasets: [{
             label: 'Total',
             data: DataArray,
@@ -44,4 +47,4 @@ window.renderChart(chartData, this.container);
 
 ## List
 - [[Electronic]]
-- 
+
