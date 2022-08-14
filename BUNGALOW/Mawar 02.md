@@ -1,5 +1,5 @@
 ---
-ID                 : Mawar 01
+ID                 : Mawar 02
 LB                 : 
 Living Room        : 
 Bed Room           :
@@ -7,8 +7,8 @@ Bath Room          :
 Kitchen            :
 Terakhir_Perbaikan : 
 ---
-# [[All Asset]] / [[Total Asset by Location]] / Mawar 01
-Total_Asset:: `$= dv.pages('"ASSET"').where(p => p.Location == "Mawar 01").length`
+# [[All Asset]] / [[Total Asset by Location]] / Mawar 02
+Total_Asset:: `$= dv.pages('"ASSET"').where(p => p.Location == "Mawar 02").length`
 
 
 
@@ -19,7 +19,7 @@ collapse: open
 ```dataview 
 TABLE length(rows) as Qty 
 FROM "ASSET" 
-WHERE contains(Location, "Mawar 01")
+WHERE contains(Location, "Mawar 02")
 group by Type
 ```
 ```ad-Asset
@@ -28,7 +28,7 @@ collapse: open
 ```dataview 
 TABLE length(rows) as Qty 
 FROM "ASSET" 
-WHERE contains(Location, "Mawar 01")
+WHERE contains(Location, "Mawar 02")
 group by Sub_Location
 ```
 
@@ -41,7 +41,7 @@ collapse: open
 ```dataview  
 table Name, Type,Status, Condition, Last_Upd
 from "ASSET"
-WHERE contains(Location, "Mawar 01")
+WHERE contains(Location, "Mawar 02")
 WHERE contains(Sub_Location, "Living Room")
 ```
 ```ad-Sub_Location
@@ -50,7 +50,7 @@ collapse: open
 ```dataview  
 table Name, Type,Status, Condition, Last_Upd
 from "ASSET"
-WHERE contains(Location, "Mawar 01")
+WHERE contains(Location, "Mawar 02")
 WHERE contains(Sub_Location, "Bath Room")
 
 ```

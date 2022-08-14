@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
-  "collapse-color-groups": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:BUNGALOW",
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 0.550595238095238,
   "linkDistance": 250,
-  "scale": 0.09392927902847929,
+  "scale": 0.1846232622586011,
   "close": true
 }

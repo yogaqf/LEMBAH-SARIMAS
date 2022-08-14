@@ -64,6 +64,29 @@
       "injectColor": true,
       "noTitle": false,
       "copy": false
+    },
+    "Asset": {
+      "type": "Asset",
+      "color": "193, 47, 47",
+      "icon": {
+        "name": "atlassian",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false
+    },
+    "Sub_Location": {
+      "type": "Sub_Location",
+      "color": "167, 165, 165",
+      "icon": {
+        "name": "location-arrow",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
     }
   },
   "syntaxHighlight": false,

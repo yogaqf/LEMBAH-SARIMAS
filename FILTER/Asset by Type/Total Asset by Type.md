@@ -1,4 +1,5 @@
 # [[All Asset]] / Total Asset by Type
+Total_Asset:: `$= dv.pages('"ASSET"').length`
 ```ad-Dataview
 collapse: open
 ```dataview 
@@ -7,43 +8,37 @@ FROM "ASSET"
 Group by Type
 ```
 
+```ad-Chart
+collapse: open
+```dataviewjs
+const data = dv.pages('"ASSET"');
 
-## Table
-| Bungalow          | Qty |
-| ----------------- | --- |
-| Cermin            | 1   |
-| Dispenser         | 3   |
-| Dispenser Keramik | 15  |
-| Jam Dinding       | 5   |
-| Kayu Risbang      | 9   |
-| Kulkas            | 1   |
-| Kursi Set         | 45  | 
-| Lampu Dinding     | 6   |
-| Lemari Pakaian    | 7   |
-| Lukisan           | 8   |
-| Meja Tempel       | 8   |
-| Meja TV           | 4   |
-| Nakas             | 5   |
-| Pewangi Ruangan   | 5   |
-| Rak Handuk        | 5   |
-| Receiver          | 5   |
-| Remote Rcv        | 5   |
-| Telepon           | 5   |
-| Tempat Gelas      | 5   |
-| Tempat Sampah     | 5   |
-| TV                | 5   |
-| Wastafel          | 5   |
-| Wifi Router       | 7   |
-^table
+const TotalAsalia11 = data.where(p => p.Location == "Asalia 11").length;
+const TotalMelati = data.where(p => p.Location == "Melati").length;
+const TotalMawar01 = data.where(p => p.Location == "Mawar 01").length;
 
-## Chart
-```chart  
-type: line  
-id: table  
-layout: column  
-width: 80%  
-beginAtZero: true  
-labelColors: true
+
+const DataArray = [TotalAsalia11, TotalMelati, TotalMawar01];
+
+const chartData = {
+    type: 'bar',
+    data: {
+        labels: ['Asalia 11', 'Melati', 'Mawar 01'],
+        datasets: [{
+            label: 'Total',
+            data: DataArray,
+            backgroundColor: [
+                'rgba(255, 99, 132, 0.2)'
+            ],
+            borderColor: [
+                'rgba(255, 99, 132, 1)'
+            ],
+            borderWidth: 1
+        }]
+    }
+}
+
+window.renderChart(chartData, this.container);
 ```
 
 ## List

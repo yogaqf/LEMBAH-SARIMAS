@@ -5,6 +5,7 @@ LB                 :
 Terakhir_Perbaikan : 
 ---
 # [[All Asset]] / [[Total Asset by Location]] / Melati
+Total_Asset:: `$= dv.pages('"ASSET"').where(p => p.Location == "Melati").length`
 
 
 

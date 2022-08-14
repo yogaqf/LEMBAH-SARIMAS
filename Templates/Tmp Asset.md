@@ -6,7 +6,7 @@ Category      : Other Equipment
 S/N           : -
 Condition     : Baik
 Status        : IN USE
-Location      : Asalia 11
+Location      : Mawar 03
 Sub_Location  : Living Room
 Last_Upd      : 14/08/2022
 ---
@@ -17,7 +17,7 @@ Last_Upd      : 14/08/2022
 collapse: open
 
 ## Location
-- [[Asalia 11]]
+- [[Mawar 03]]
 
 ## Condition
 - Baik

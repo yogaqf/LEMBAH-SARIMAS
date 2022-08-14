@@ -1,4 +1,5 @@
 # [[All Asset]] / Total Asset by Category
+Total_Asset:: `$= dv.pages('"ASSET"').length`
 ```ad-Dataview
 collapse: open
 ```dataview 
@@ -7,27 +8,39 @@ FROM "ASSET"
 Group by Category
 ```
 
+```ad-Chart
+collapse: open
+```dataviewjs
+const data = dv.pages('"ASSET"');
 
-## Table
-| Bungalow        | Qty |
-| --------------- | --- |
-| Chinaware       | 1   |
-| Decoration      | 3   | 
-| Electronic      | 15  |
-| Furniture       | 5   |
-| Other Equipment | 9   |
-| Sanitaryware    | 1   |
-^table
+const TotalAsalia11 = data.where(p => p.Location == "Asalia 11").length;
+const TotalMelati = data.where(p => p.Location == "Melati").length;
+const TotalMawar01 = data.where(p => p.Location == "Mawar 01").length;
 
-## Chart
-```chart  
-type: bar  
-id: table  
-layout: rows  
-width: 80%  
-beginAtZero: true  
 
+const DataArray = [TotalAsalia11, TotalMelati, TotalMawar01];
+
+const chartData = {
+    type: 'bar',
+    data: {
+        labels: ['Asalia 11', 'Melati', 'Mawar 01'],
+        datasets: [{
+            label: 'Total',
+            data: DataArray,
+            backgroundColor: [
+                'rgba(255, 99, 132, 0.2)'
+            ],
+            borderColor: [
+                'rgba(255, 99, 132, 1)'
+            ],
+            borderWidth: 1
+        }]
+    }
+}
+
+window.renderChart(chartData, this.container);
 ```
+
 
 ## List
 - [[Electronic]]

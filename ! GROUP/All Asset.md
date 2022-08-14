@@ -14,8 +14,7 @@ collapse: open
 
 ## <mark style="background: #FF5582A6;">Asset List</mark> 
 ```dataview  
-table ID as No, Name, Category , Location, file.mtime as Last_Update
+table ID as No, Name, Category , Location, file.mtime as Last_Modified
 from "ASSET"
 sort file.mtime desc
-limit 10
 ```

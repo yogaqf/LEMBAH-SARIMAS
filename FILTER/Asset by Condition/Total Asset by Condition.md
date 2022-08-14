@@ -1,5 +1,5 @@
 # [[All Asset]] / Total Asset by Status
-
+Total_Asset:: `$= dv.pages('"ASSET"').length`
 ```ad-Dataview
 collapse: open
 ```dataview 
@@ -8,25 +8,37 @@ FROM "ASSET"
 Group by Condition
 ```
 
+```ad-Chart
+collapse: open
+```dataviewjs
+const data = dv.pages('"ASSET"');
+
+const TotalBaik = data.where(p => p.Condition == "Baik").length;
 
 
+const DataArray = [TotalBaik];
 
-## Table
-| Status  | Qty |
-| ------- | --- |
-| IN USE  | 29  |
-| New     | 3   |
-| Useless | 6.7 |
-^table
+const chartData = {
+    type: 'bar',
+    data: {
+        labels: ['Baik'],
+        datasets: [{
+            label: 'Total',
+            data: DataArray,
+            backgroundColor: [
+                'rgba(255, 99, 132, 0.2)'
+            ],
+            borderColor: [
+                'rgba(255, 99, 132, 1)'
+            ],
+            borderWidth: 1
+        }]
+    }
+}
 
-## Chart
-```chart  
-type: bar  
-id: table  
-layout: rows  
-width: 80%  
-beginAtZero: true  
+window.renderChart(chartData, this.container);
 ```
 
+
 ## List
-- IN USE
+- Baik
