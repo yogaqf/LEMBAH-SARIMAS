@@ -1,4 +1,5 @@
 # [[All Asset]] / [[Total Asset by Category]] / Electronic
+Total_Asset:: #PR
 
 ```dataview  
 table ID as No, Name, Type, Group , Location

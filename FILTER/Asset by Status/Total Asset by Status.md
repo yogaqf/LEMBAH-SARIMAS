@@ -1,21 +1,22 @@
-# [[All Asset]] / Total Asset by Location
+# [[All Asset]] / Total Asset by Status
+
 ```ad-Dataview
 collapse: open
 ```dataview 
 TABLE length(rows) as Total_Asset
 FROM "ASSET" 
-Group by Location
+Group by Status
 ```
 
 
 
 
 ## Table
-| Bungalow  | Qty |
-| --------- | --- |
-| Asalia 11 | 16  |
-| Mawar 01  | 6   |
-| Melati    | 7   |
+| Status  | Qty |
+| ------- | --- |
+| IN USE  | 29  |
+| New     | 3   |
+| Useless | 6.7 |
 ^table
 
 ## Chart
@@ -28,5 +29,4 @@ beginAtZero: true
 ```
 
 ## List
-- [[Melati]]
-- 
+- IN USE

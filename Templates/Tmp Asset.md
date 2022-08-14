@@ -8,7 +8,7 @@ Condition     : Baik
 Status        : IN USE
 Location      : Asalia 11
 Sub_Location  : Living Room
-Last_Upd      : 13/08/2022
+Last_Upd      : 14/08/2022
 ---
 
 

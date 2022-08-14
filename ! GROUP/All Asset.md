@@ -1,6 +1,7 @@
 # All Asset
 ---
-```ad-Sort
+Total_Asset:: `$= dv.pages('"ASSET"').length`
+```ad-Filter
 collapse: open
 
 [[Total Asset by Status]]
@@ -13,7 +14,8 @@ collapse: open
 
 ## <mark style="background: #FF5582A6;">Asset List</mark> 
 ```dataview  
-table ID as No, Name, Category , Location, file.mtime as Last_Upd
+table ID as No, Name, Category , Location, file.mtime as Last_Update
 from "ASSET"
 sort file.mtime desc
+limit 10
 ```

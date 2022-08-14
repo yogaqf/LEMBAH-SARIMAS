@@ -8,15 +8,7 @@ Kitchen            :
 Terakhir_Perbaikan : 
 ---
 # [[All Asset]] / [[Total Asset by Location]] / Asalia 11
-
-## History Perbaikan
-- None
-
-
-
-
-
-
+Total_Asset:: `$= dv.pages('"ASSET"').where(p => p.Location == "Asalia 11").length`
 
 
 
@@ -41,13 +33,16 @@ group by Sub_Location
 
 
 
+
+
+
 # Sub Location
 
 ## <mark style="background: #CACFD9A6;">Balcony</mark> 
 
 ## <mark style="background: #ADCCFFA6;">Living Room</mark> 
 ```dataview  
-table Name, Type,Status, Tag as Condition, Last_Upd
+table Name, Type,Status, Condition, Last_Upd
 from "ASSET"
 WHERE contains(Location, "Asalia 11")
 WHERE contains(Sub_Location, "Living Room")

@@ -5,7 +5,7 @@ collapse: open
 ```dataview 
 TABLE length(rows) as Total_Asset
 FROM "ASSET" 
-Group by Status
+Group by Condition
 ```
 
 
@@ -30,4 +30,3 @@ beginAtZero: true
 
 ## List
 - IN USE
-

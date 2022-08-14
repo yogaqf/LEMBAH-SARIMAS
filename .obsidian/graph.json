@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "path:ASSET/TV",
+      "query": "path:ASSET/ELECTRONIC",
       "color": {
         "a": 1,
         "rgb": 14725458
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 0.550595238095238,
   "linkDistance": 250,
-  "scale": 0.09392927902847908,
+  "scale": 0.09392927902847929,
   "close": true
 }

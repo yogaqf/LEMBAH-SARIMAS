@@ -1,14 +1,14 @@
 {
   "userAdmonitions": {
-    "Sort": {
-      "type": "Sort",
+    "Filter": {
+      "type": "Filter",
       "color": "58, 38, 207",
       "icon": {
         "name": "filter",
         "type": "font-awesome"
       },
       "command": false,
-      "title": "Sort",
+      "title": "Filter",
       "injectColor": true,
       "noTitle": false,
       "copy": false
@@ -48,6 +48,19 @@
       },
       "command": false,
       "title": "Photo",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "Chart": {
+      "type": "Chart",
+      "color": "255, 92, 92",
+      "icon": {
+        "name": "chart-bar",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Chart",
       "injectColor": true,
       "noTitle": false,
       "copy": false

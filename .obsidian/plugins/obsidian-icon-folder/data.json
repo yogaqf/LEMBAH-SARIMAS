@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "IbPower",
+      "FabAlipay",
       "FasFilter",
       "FasChair",
-      "FasMartiniGlass",
-      "FarSnowflake",
-      "IbPhoneSignal"
+      "FasMartiniGlass"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,5 +35,7 @@
   "ASSET/Electronic/TV": "FabAmazon",
   "ASSET/Electronic/Wifi Router": "IbPhoneSignal",
   "ASSET/Furniture": "FasChair",
-  "SORT": "FasFilter"
+  "SORT": "FasFilter",
+  "ASSET/Chinaware": "FabAlipay",
+  "ASSET/Electronic": "IbPower"
 }
