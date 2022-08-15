@@ -2,7 +2,7 @@
 ID            : 
 Name          : 
 Type          : 
-Category      : Other Equipment
+Category      : 
 S/N           : -
 Condition     : Baik
 Status        : IN USE

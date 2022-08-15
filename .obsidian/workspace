@@ -4,13 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "adc273c627d5ceaa",
+        "id": "075dc8267ee6875f",
         "type": "leaf",
         "state": {
-          "type": "diff-view",
+          "type": "markdown",
           "state": {
-            "file": "FILTER/Asset by Category/Electronic.md",
-            "staged": false
+            "file": "Templates/Tmp Asset.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
           }
         }
       }
@@ -85,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Tmp Asset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,17 +133,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "adc273c627d5ceaa",
+  "active": "75744561fda87aef",
   "lastOpenFiles": [
+    "BUNGALOW/Melati.md",
+    "ASSET/Electronic/Dispenser/R 00756.md",
+    "! GROUP/All Asset.md",
+    "FILTER/Asset by Condition/Total Asset by Condition.md",
+    "FILTER/Asset by Status/Total Asset by Status.md",
     "FILTER/Asset by Category/Electronic.md",
     "Templates/Tmp Bungalow.md",
-    "BUNGALOW/Melati.md",
     "BUNGALOW/Mawar 03.md",
     "BUNGALOW/Mawar 02.md",
-    "BUNGALOW/Mawar 01.md",
-    "BUNGALOW/Asalia 11.md",
-    "Templates/Tmp Asset.md",
-    "FILTER/Asset by Category/Total Asset by Category.md",
-    "FILTER/Asset by Condition/Total Asset by Condition.md"
+    "BUNGALOW/Mawar 01.md"
   ]
 }
