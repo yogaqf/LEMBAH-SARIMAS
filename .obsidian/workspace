@@ -7,8 +7,13 @@
         "id": "20bde8afaeea98f4",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "BUNGALOW/Asalia 11.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BUNGALOW/Asalia 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,15 +135,15 @@
   },
   "active": "75744561fda87aef",
   "lastOpenFiles": [
-    "r 000010.md",
-    "BUNGALOW/Mawar 04.md",
-    "ASSET/Electronic/Receiver/R 00005.md",
-    "ASSET/Electronic/Receiver/R 00006.md",
-    "Templates/Tmp Asset.md",
-    "BUNGALOW/Melati.md",
-    "BUNGALOW/Asalia 11.md",
+    "! GROUP/All Asset.md",
     "BUNGALOW/Mawar 01.md",
-    "BUNGALOW/Mawar 02.md",
-    "BUNGALOW/Mawar 05.md"
+    "ASSET/Electronic/Wifi Router/R 00206.md",
+    "FILTER/Asset by Location/Total Asset by Location.md",
+    "FILTER/Asset by Status/Total Asset by Status.md",
+    "BUNGALOW/Mawar 06.md",
+    "ASSET/Electronic/Water Heater/R 00235.md",
+    "FILTER/Asset by Category/Total Asset by Category.md",
+    "BUNGALOW/Mawar 05.md",
+    "ASSET/Electronic/Kulkas/R 00228.md"
   ]
 }

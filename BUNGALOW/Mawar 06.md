@@ -55,3 +55,13 @@ WHERE contains(Location, "Mawar 06")
 WHERE contains(Sub_Location, "Bath Room")
 sort Name asc
 ```
+```ad-Sub_Location
+title: Outer Room
+collapse: open
+```dataview  
+table Name, Type,Status, Condition, Last_Upd
+from "ASSET"
+WHERE contains(Location, "Mawar 06")
+WHERE contains(Sub_Location, "Outer Room")
+sort Name asc
+```

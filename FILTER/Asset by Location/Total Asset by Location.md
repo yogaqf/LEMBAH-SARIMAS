@@ -19,14 +19,15 @@ const TotalMawar02 = data.where(p => p.Location == "Mawar 02").length;
 const TotalMawar03 = data.where(p => p.Location == "Mawar 03").length;
 const TotalMawar04 = data.where(p => p.Location == "Mawar 04").length;
 const TotalMawar05 = data.where(p => p.Location == "Mawar 05").length;
+const TotalMawar06 = data.where(p => p.Location == "Mawar 06").length;
 const TotalMelati = data.where(p => p.Location == "Melati").length;
 
-const DataArray = [TotalAsalia11, TotalMawar01, TotalMawar02, TotalMawar03, TotalMawar04, TotalMawar05, TotalMelati];
+const DataArray = [TotalAsalia11, TotalMawar01, TotalMawar02, TotalMawar03, TotalMawar04, TotalMawar05, TotalMawar06, TotalMelati];
 
 const chartData = {
     type: 'bar',
     data: {
-        labels: ['Asalia 11', 'Mawar 01', 'Mawar 02', 'Mawar 03', 'Mawar 04', 'Mawar 05', 'Melati'],
+        labels: ['Asalia 11', 'Mawar 01', 'Mawar 02', 'Mawar 03', 'Mawar 04', 'Mawar 05', 'Mawar 06', 'Melati'],
         datasets: [{
             label: 'Total',
             data: DataArray,
