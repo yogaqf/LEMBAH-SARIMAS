@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "20bde8afaeea98f4",
+        "id": "ac23afef0cdaeb7a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BUNGALOW/Asalia 11.md",
+            "file": "! GROUP/All Asset.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BUNGALOW/Asalia 11.md",
+                "file": "! GROUP/All Asset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,26 +124,60 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "afbed518dc68887e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "! GROUP/All Asset.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.2588386562181644,
+                  "close": true
+                }
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "75744561fda87aef",
   "lastOpenFiles": [
-    "! GROUP/All Asset.md",
-    "BUNGALOW/Mawar 01.md",
-    "ASSET/Electronic/Wifi Router/R 00206.md",
-    "FILTER/Asset by Location/Total Asset by Location.md",
     "FILTER/Asset by Status/Total Asset by Status.md",
-    "BUNGALOW/Mawar 06.md",
-    "ASSET/Electronic/Water Heater/R 00235.md",
-    "FILTER/Asset by Category/Total Asset by Category.md",
-    "BUNGALOW/Mawar 05.md",
-    "ASSET/Electronic/Kulkas/R 00228.md"
+    "! GROUP/All Asset.md",
+    "FILTER/Asset by Location/Total Asset by Location.md",
+    "ASSET/Electronic/TV/R 00719.md",
+    "ASSET/Furniture/R 00718.md",
+    "ASSET/Other Equipment/Pewangi Ruangan/R 00717.md",
+    "ASSET/Furniture/R 00716.md",
+    "ASSET/Electronic/Water Heater/R 00283.md",
+    "ASSET/Electronic/Dispenser/R 00189.md",
+    "BUNGALOW/Mawar 07.md"
   ]
 }

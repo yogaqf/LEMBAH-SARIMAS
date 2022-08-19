@@ -37,5 +37,6 @@
   "ASSET/Furniture": "FasChair",
   "SORT": "FasFilter",
   "ASSET/Chinaware": "FabAlipay",
-  "ASSET/Electronic": "IbPower"
+  "ASSET/Electronic": "IbPower",
+  "FILTER": "FasFilter"
 }
