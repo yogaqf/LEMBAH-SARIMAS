@@ -12,5 +12,6 @@
   "showLineNumber": true,
   "livePreview": true,
   "promptDelete": false,
-  "tabSize": 4
+  "tabSize": 4,
+  "strictLineBreaks": false
 }

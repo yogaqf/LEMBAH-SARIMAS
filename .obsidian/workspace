@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ac23afef0cdaeb7a",
+        "id": "cdf9334c9634b269",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! GROUP/All Asset.md",
+            "file": "FILTER/Asset by Location/Total Asset by Location.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -28,7 +28,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a00a3da7dc21c3d1",
+            "id": "6eb68d8937eec1f1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! GROUP/All Asset.md",
+                "file": "FILTER/Asset by Location/Total Asset by Location.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "! GROUP/All Asset.md",
+                "file": "FILTER/Asset by Location/Total Asset by Location.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -165,19 +165,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "75744561fda87aef",
   "lastOpenFiles": [
-    "FILTER/Asset by Status/Total Asset by Status.md",
     "! GROUP/All Asset.md",
-    "FILTER/Asset by Location/Total Asset by Location.md",
-    "ASSET/Electronic/TV/R 00719.md",
-    "ASSET/Furniture/R 00718.md",
-    "ASSET/Other Equipment/Pewangi Ruangan/R 00717.md",
-    "ASSET/Furniture/R 00716.md",
-    "ASSET/Electronic/Water Heater/R 00283.md",
-    "ASSET/Electronic/Dispenser/R 00189.md",
-    "BUNGALOW/Mawar 07.md"
+    "BUNGALOW/Mawar 03.md",
+    "ASSET/Electronic/Dispenser/R 00171.md",
+    "BUNGALOW/Mawar 07.md",
+    "ASSET/Sanitaryware/R 00744.md",
+    "ASSET/Other Equipment/R 00743.md",
+    "ASSET/Sanitaryware/Wastafel/R 00742.md",
+    "ASSET/Other Equipment/R 00741.md",
+    "ASSET/Other Equipment/R 00740.md",
+    "ASSET/Decoration/Lukisan/R 00739.md"
   ]
 }
