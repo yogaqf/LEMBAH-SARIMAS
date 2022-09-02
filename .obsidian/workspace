@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FILTER/Asset by Location/Total Asset by Location.md",
+            "file": "ASSET/Electronic/Water Heater/R 00292.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -28,7 +28,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6eb68d8937eec1f1",
+            "id": "60393ff509e19a32",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FILTER/Asset by Location/Total Asset by Location.md",
+                "file": "ASSET/Electronic/Water Heater/R 00292.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "FILTER/Asset by Location/Total Asset by Location.md",
+                "file": "ASSET/Electronic/Water Heater/R 00292.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -161,7 +161,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -170,15 +170,15 @@
   },
   "active": "75744561fda87aef",
   "lastOpenFiles": [
+    "ASSET/Electronic/Dispenser/R 00173.md",
     "! GROUP/All Asset.md",
-    "BUNGALOW/Mawar 03.md",
-    "ASSET/Electronic/Dispenser/R 00171.md",
-    "BUNGALOW/Mawar 07.md",
-    "ASSET/Sanitaryware/R 00744.md",
-    "ASSET/Other Equipment/R 00743.md",
-    "ASSET/Sanitaryware/Wastafel/R 00742.md",
-    "ASSET/Other Equipment/R 00741.md",
-    "ASSET/Other Equipment/R 00740.md",
-    "ASSET/Decoration/Lukisan/R 00739.md"
+    "ASSET/Electronic/Telepon/R 00095.md",
+    "BUNGALOW/Mawar 12.md",
+    "Templates/Tmp Asset.md",
+    "Templates/Tmp Bungalow.md",
+    "ASSET/Electronic/R 00715.md",
+    "ASSET/Electronic/TV/R 01054.md",
+    "ASSET/Electronic/R 00172.md",
+    "ASSET/Electronic/Telepon/R 00094.md"
   ]
 }

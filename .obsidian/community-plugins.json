@@ -12,7 +12,6 @@
   "templater-obsidian",
   "obsidian-git",
   "obsidian-emoji-toolbar",
-  "file-explorer-note-count",
   "obsidian-icon-folder",
   "obsidian-attachment-name-formatting",
   "find-unlinked-files",
@@ -20,5 +19,7 @@
   "obsidian-charts",
   "table-editor-obsidian",
   "multi-column-markdown",
-  "obsidian-admonition"
+  "obsidian-admonition",
+  "quick-explorer",
+  "file-explorer-note-count"
 ]
