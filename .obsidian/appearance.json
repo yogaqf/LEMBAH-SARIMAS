@@ -4,5 +4,6 @@
   "textFontFamily": "Helvetica",
   "theme": "obsidian",
   "interfaceFontFamily": "SansSerif",
-  "translucency": false
+  "translucency": false,
+  "accentColor": ""
 }
