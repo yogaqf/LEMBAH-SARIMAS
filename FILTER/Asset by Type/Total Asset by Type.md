@@ -1,5 +1,5 @@
 # [[All Asset]] / Total Asset by Type
-Total_Asset:: `$= dv.pages('"ASSET"').length`
+Total_Asset:: $= dv.pages("ASSET").length
 ```ad-Dataview
 collapse: open
 ```dataview 

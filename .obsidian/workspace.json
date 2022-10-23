@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
+                "file": "ASSET/Electronic/Dispenser/R 00029.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 238.5
   },
   "right": {
     "id": "70b8d15e264b1a5b",
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "ASSET/Electronic/Dispenser/R 00029.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.md",
+                "file": "ASSET/Electronic/Dispenser/R 00029.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -195,15 +195,15 @@
   },
   "active": "75744561fda87aef",
   "lastOpenFiles": [
-    "ASSET/Chinaware/Dispenser Keramik/R 00169.md",
     "! GROUP/All Asset.md",
-    "BUNGALOW/Asalia 11.md",
-    "R 00641.md",
-    "ASSET/Sanitaryware/R 00640.md",
-    "ASSET/Sanitaryware/R 00638.md",
-    "ASSET/Other Equipment/R 00639.md",
-    "ASSET/Sanitaryware/R 00637.md",
-    "ASSET/Other Equipment/R 00636.md",
-    "ASSET/Furniture/R 00635.md"
+    "ASSET/Electronic/Dispenser/R 00029.md",
+    "BUNGALOW/Anggrek 01.md",
+    "FILTER/Asset by Location/Total Asset by Location.md",
+    "FILTER/Asset by Condition/Total Asset by Condition.md",
+    "FILTER/Asset by Status/Total Asset by Status.md",
+    "FILTER/Asset by Type/Total Asset by Type.md",
+    "ASSET/Chinaware/Dispenser Keramik/R 00169.md",
+    "Untitled.md",
+    "BUNGALOW/Asalia 11.md"
   ]
 }
