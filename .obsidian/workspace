@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R 00641.md",
+            "file": "ASSET/Decoration/Lukisan/R 00614.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -28,7 +28,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f3c0d5a6cd54098",
+            "id": "f1e93db6c6e72cb0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R 00641.md",
+                "file": "ASSET/Decoration/Lukisan/R 00614.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "R 00641.md",
+                "file": "ASSET/Decoration/Lukisan/R 00614.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,15 +170,15 @@
   },
   "active": "75744561fda87aef",
   "lastOpenFiles": [
-    "ASSET/Sanitaryware/R 00640.md",
-    "ASSET/Sanitaryware/R 00638.md",
-    "ASSET/Other Equipment/R 00639.md",
-    "ASSET/Sanitaryware/R 00637.md",
-    "ASSET/Other Equipment/R 00636.md",
-    "ASSET/Furniture/R 00635.md",
-    "ASSET/Decoration/R 00634.md",
-    "ASSET/Decoration/R 00633.md",
     "! GROUP/All Asset.md",
-    "ASSET/Decoration/Lukisan/R 00632.md"
+    "ASSET/Other Equipment/R 00613.md",
+    "ASSET/Furniture/R 00612.md",
+    "ASSET/Other Equipment/R 00611.md",
+    "ASSET/Furniture/R 00610.md",
+    "ASSET/Furniture/R 00609.md",
+    "ASSET/Furniture/R 00608.md",
+    "ASSET/Electronic/Remote TV/R 00607.md",
+    "ASSET/Electronic/Water Heater/R 00288.md",
+    "ASSET/Electronic/Kulkas/R 00221.md"
   ]
 }
