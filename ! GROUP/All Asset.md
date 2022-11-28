@@ -16,5 +16,6 @@ collapse: open
 ```dataview  
 table ID as No, Name, Condition, Location, file.mtime as Last_Modified
 from "ASSET"
+limit 20
 sort file.mtime desc
 ```

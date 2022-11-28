@@ -2,14 +2,15 @@
   "attachmentFolderPath": "IMG",
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
+    "includeName": true,
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 100
+    "downscalePercent": 71
   },
   "legacyEditor": false,
   "showFrontmatter": true,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "livePreview": true,
   "promptDelete": false,
   "tabSize": 4,

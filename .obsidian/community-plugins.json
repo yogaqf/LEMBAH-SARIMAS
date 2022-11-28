@@ -1,5 +1,4 @@
 [
-  "sliding-panes-obsidian",
   "obsidian-style-settings",
   "obsidian-mind-map",
   "dataview",
@@ -13,13 +12,11 @@
   "obsidian-git",
   "obsidian-emoji-toolbar",
   "obsidian-icon-folder",
-  "obsidian-attachment-name-formatting",
   "find-unlinked-files",
   "highlightr-plugin",
   "obsidian-charts",
   "table-editor-obsidian",
   "multi-column-markdown",
   "obsidian-admonition",
-  "quick-explorer",
-  "file-explorer-note-count"
+  "obsidian-attachment-name-formatting"
 ]

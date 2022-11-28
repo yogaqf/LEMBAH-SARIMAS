@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "5778b3817b6e69ef",
+        "id": "cd08da12f238f101",
         "type": "tabs",
         "children": [
           {
-            "id": "cdf9334c9634b269",
+            "id": "230328d4201ef891",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASSET/Chinaware/Dispenser Keramik/R 00169.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "164289fc3a8981ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASSET/Electronic/Dispenser/R 00029.md",
+                "file": "! GROUP/All Asset.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +67,7 @@
             }
           },
           {
-            "id": "75744561fda87aef",
+            "id": "b6bf6dc2e7f64ec4",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -93,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 341
   },
   "right": {
     "id": "70b8d15e264b1a5b",
@@ -109,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASSET/Electronic/Dispenser/R 00029.md",
+                "file": "! GROUP/All Asset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ASSET/Electronic/Dispenser/R 00029.md",
+                "file": "! GROUP/All Asset.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -183,27 +169,23 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "75744561fda87aef",
+  "active": "98f4b9cad588be91",
   "lastOpenFiles": [
+    "FILTER/Asset by Condition/Total Asset by Condition.md",
     "! GROUP/All Asset.md",
-    "ASSET/Electronic/Dispenser/R 00029.md",
+    "FILTER/Asset by Status/Total Asset by Status.md",
+    "ASSET/Chinaware/Dispenser Keramik/R 00169.md",
     "BUNGALOW/Anggrek 01.md",
     "FILTER/Asset by Location/Total Asset by Location.md",
-    "FILTER/Asset by Condition/Total Asset by Condition.md",
-    "FILTER/Asset by Status/Total Asset by Status.md",
-    "FILTER/Asset by Type/Total Asset by Type.md",
-    "ASSET/Chinaware/Dispenser Keramik/R 00169.md",
-    "Untitled.md",
-    "BUNGALOW/Asalia 11.md"
+    "BUNGALOW/Mawar 08.md",
+    "ASSET/Other Equipment/Pewangi Ruangan/R 00696.md",
+    "ASSET/Furniture/R 00698.md",
+    "ASSET/Electronic/Dispenser/R 00176.md"
   ]
 }

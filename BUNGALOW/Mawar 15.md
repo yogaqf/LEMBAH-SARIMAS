@@ -10,9 +10,7 @@ Terakhir_Perbaikan :
 # [[All Asset]] / [[Total Asset by Location]] / Mawar 15
 Total_Asset:: `$= dv.pages('"ASSET"').where(p => p.Location == "Mawar 15").length`
 
-
-
-
+---
 ```ad-Asset
 title: Asset Type
 collapse: open
@@ -22,6 +20,7 @@ FROM "ASSET"
 WHERE contains(Location, "Mawar 15")
 group by Type
 ```
+
 ```ad-Asset
 title: Sub Location
 collapse: open
@@ -33,11 +32,10 @@ group by Sub_Location
 ```
 
 
-
+---
 # Sub Location
-```ad-Sub_Location
-title: Living Room
-collapse: open
+
+## Living Room
 ```dataview  
 table Name, Type,Status, Condition, Last_Upd
 from "ASSET"
@@ -45,6 +43,7 @@ WHERE contains(Location, "Mawar 15")
 WHERE contains(Sub_Location, "Living Room")
 sort Name asc
 ```
+
 ```ad-Sub_Location
 title: Bath Room
 collapse: open

@@ -1,9 +1,10 @@
 {
-  "baseFontSize": 10,
-  "cssTheme": "",
-  "textFontFamily": "Helvetica",
+  "baseFontSize": 12,
+  "cssTheme": "Obsidian Nord",
+  "textFontFamily": "Inter",
   "theme": "obsidian",
-  "interfaceFontFamily": "SansSerif",
+  "interfaceFontFamily": "",
   "translucency": false,
-  "accentColor": ""
+  "accentColor": "",
+  "showViewHeader": false
 }

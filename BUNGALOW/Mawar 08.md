@@ -12,19 +12,13 @@ Total_Asset:: `$= dv.pages('"ASSET"').where(p => p.Location == "Mawar 08").lengt
 
 
 
-
-```ad-Asset
-title: Asset Type
-collapse: open
+# Type
 ```dataview 
 TABLE length(rows) as Qty 
 FROM "ASSET" 
 WHERE contains(Location, "Mawar 08")
 group by Type
 ```
-```ad-Asset
-title: Sub Location
-collapse: open
 ```dataview 
 TABLE length(rows) as Qty 
 FROM "ASSET" 
@@ -32,12 +26,8 @@ WHERE contains(Location, "Mawar 08")
 group by Sub_Location
 ```
 
-
-
 # Sub Location
-```ad-Sub_Location
-title: Living Room
-collapse: open
+
 ```dataview  
 table Name, Type,Status, Condition, Last_Upd
 from "ASSET"
@@ -45,9 +35,8 @@ WHERE contains(Location, "Mawar 08")
 WHERE contains(Sub_Location, "Living Room")
 sort Name asc
 ```
-```ad-Sub_Location
-title: Bath Room
-collapse: open
+
+
 ```dataview  
 table Name, Type,Status, Condition, Last_Upd
 from "ASSET"
